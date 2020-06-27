@@ -1,0 +1,38 @@
+body{
+    padding-top: 20px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    background-color: #e5e5e5;
+    border: 1px solid black;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    text-align: center;
+    color: #777;
+    padding: 15px 0px;
+    text-decoration: none;
+    
+}
+
+li a:hover{
+    background-color: skyblue;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+}
+
+.centro{
+    text-align: center;
+}
